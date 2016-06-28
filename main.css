@@ -14,39 +14,42 @@ body {
 }*/
 
 
-ul.nav{ 
+/*ul.nav{ 
 	display: inline;
-	float: right;
+	float: left;
 	width: auto;
 	position: relative;
-	margin-right: 60px;
-	bottom: 60px;
-	padding-left: 0;
+	margin: 0;
+	padding: 0;
+	margin-right: 10%;*/
+/*	margin-right: 60px;*/
+/*	bottom: 60px;*/
+/*	padding-left: 0;*/
 }
 
-ul.dropdown {
+/*ul.dropdown {
 	display:none;
 	position:relative;
 	text-align: center;
-}
+}*/
 
 .dropdown {
   font-family: 'Roboto', sans-serif;
 }
 
-ul.dropdown li{
+/*ul.dropdown li{
 	display:block;
-}
+}*/
 
-ul.nav li:hover ul{
+/*ul.nav li:hover ul{
 	display:block;
 	position:absolute;
 	color: #000;
-}
+}*/
 
 .nav {
-	position:relative;
-	display:inline-block;
+/*	position:relative;*/
+	display: block;
 }
 
 
@@ -123,4 +126,4 @@ a:visited {
 
 div:hover {
 	background-color:blue;
-};
+}; 
